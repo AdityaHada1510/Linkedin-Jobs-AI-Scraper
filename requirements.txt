@@ -1,0 +1,8 @@
+streamlit
+selenium
+beautifulsoup4
+pandas
+tqdm
+langchain
+langchain-community
+webdriver-manager
